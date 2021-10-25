@@ -1,1 +1,4 @@
-#EXTINF:0, S1 http://www.knaqu.tv/live/ss1.m3u8|Referer=http://www.knaqu.tv
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
+#EXTINF:0, http://www.knaqu.tv/live/ss1.m3u8|Referer=http://www.knaqu.tv
